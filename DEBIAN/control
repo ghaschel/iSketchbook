@@ -1,0 +1,21 @@
+Package: com.guilhermehaschel.sketchbook
+Name: SketchBook
+Version: 1.0
+Architecture: iphoneos-arm
+Homepage: http://guilhermehaschel.com
+Maintainer: Guilherme Haschel <contato@guilhermehaschel.com>
+Author: Guilherme Haschel <contato@guilhermehaschel.com>
+Sponsor: Guilherme Haschel <http://guilhermehaschel.com>
+Depends: winterboard, bytafont
+Section: Themes (SpringBoard)
+Description:Handmade theme!
+	-All icons Hand drawn (You can allways request icons, mention me on twitter (@echo__off) or email-me
+	-Notification Center
+	-LockScreen
+	-Wallpaper
+	-Music App GUI
+	-Weather App GUI
+	-Font (via BytaFont. Daniel font is attached to the package. As it's commercial license is free, so there's no problem)
+	-Folder BG and SwitcherBG
+	-Switcher icons
+	-Battery
