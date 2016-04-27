@@ -1,2 +1,3 @@
 # iSketchbook
-Open Source iOS winterboard theme.
+-------------
+This repository has the purpose of serving the image files to the main one.
