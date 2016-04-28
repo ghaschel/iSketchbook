@@ -29,31 +29,31 @@ The font included was optimized to work on the iDevices, it's name is Daniel, an
 
 ## Screenshots
 
-[![Homescreen](../../screenshots/images/homescreen.PNG)](../../screenshots/images/homescreen.PNG)
+[![Homescreen](../../blob/screenshots/images/homescreen.PNG)](../../blob/screenshots/images/homescreen.PNG)
 
-[![Homescreen with a Folder open](../../screenshots/images/homescreen-folder-02.PNG)](../../screenshots/images/homescreen-folder-02.PNG)
+[![Homescreen with a Folder open](../../blob/screenshots/images/homescreen-folder-02.PNG)](../../blob/screenshots/images/homescreen-folder-02.PNG)
 
-[![Homescreen with a Folder open](../../screenshots/images/homescreen-folder-03.PNG)](../../screenshots/images/homescreen-folder-03.PNG)
+[![Homescreen with a Folder open](../../blob/screenshots/images/homescreen-folder-03.PNG)](../../blob/screenshots/images/homescreen-folder-03.PNG)
 
-[![Homescreen + Dockflow](../../screenshots/images/homescreen-dockflow.PNG)](../../screenshots/images/homescreen-dockflow.PNG)
+[![Homescreen + Dockflow](../../blob/screenshots/images/homescreen-dockflow.PNG)](../../blob/screenshots/images/homescreen-dockflow.PNG)
 
-[![Multitasking Bar](../../screenshots/images/multitasking-bar-01.PNG)](../../screenshots/images/multitasking-bar-01.PNG)
+[![Multitasking Bar](../../blob/screenshots/images/multitasking-bar-01.PNG)](../../blob/screenshots/images/multitasking-bar-01.PNG)
 
-[![SBSettings](../../screenshots/images/sbsettings-01.PNG)](../../screenshots/images/sbsettings-01.PNG)
+[![SBSettings](../../blob/screenshots/images/sbsettings-01.PNG)](../../blob/screenshots/images/sbsettings-01.PNG)
 
-[![Notification Center](../../screenshots/images/notification-center-01.PNG)](../../screenshots/images/notification-center-01.PNG)
+[![Notification Center](../../blob/screenshots/images/notification-center-01.PNG)](../../blob/screenshots/images/notification-center-01.PNG)
 
-[![Lockscreen](../../screenshots/images/lockscreen-01.PNG)](../../screenshots/images/lockscreen-01.PNG)
+[![Lockscreen](../../blob/screenshots/images/lockscreen-01.PNG)](../../blob/screenshots/images/lockscreen-01.PNG)
 
-[![Lockscreen With a different wallpaper](../../screenshots/images/lockscreen-02.PNG)](../../screenshots/images/lockscreen-02.PNG)
+[![Lockscreen With a different wallpaper](../../blob/screenshots/images/lockscreen-02.PNG)](../../blob/screenshots/images/lockscreen-02.PNG)
 
-[![Lockscreen Snowcover](../../screenshots/images/lockscreen-03-snowcover.PNG)](../../screenshots/images/lockscreen-03-snowcover.PNG)
+[![Lockscreen Snowcover](../../blob/screenshots/images/lockscreen-03-snowcover.PNG)](../../blob/screenshots/images/lockscreen-03-snowcover.PNG)
 
-[![Lockscreen Snowcover](../../screenshots/images/lockscreen-06.PNG)](../../screenshots/images/lockscreen-06.PNG)
+[![Lockscreen Snowcover](../../blob/screenshots/images/lockscreen-06.PNG)](../../blob/screenshots/images/lockscreen-06.PNG)
 
-[![Lockscreen Snowcover](../../screenshots/images/lockscreen-04-notification.PNG)](../../screenshots/images/lockscreen-04-notification.PNG)
+[![Lockscreen Snowcover](../../blob/screenshots/images/lockscreen-04-notification.PNG)](../../blob/screenshots/images/lockscreen-04-notification.PNG)
 
-[![Lockscreen Snowcover](../../screenshots/images/lockscreen-05-charging.PNG)](../../screenshots/images/lockscreen-05-charging.PNG)
+[![Lockscreen Snowcover](../../blob/screenshots/images/lockscreen-05-charging.PNG)](../../blob/screenshots/images/lockscreen-05-charging.PNG)
 
 ## Disclaimer
 
