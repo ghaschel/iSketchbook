@@ -1,3 +1,3 @@
 # iSketchbook
--------------
-This repository has the purpose of serving the image files to the main one.
+------
+This repository has the purpose of serving image files for it's trunk.
