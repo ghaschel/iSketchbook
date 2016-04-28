@@ -29,31 +29,31 @@ The font included was optimized to work on the iDevices, it's name is Daniel, an
 
 ## Screenshots
 
-[![Homescreen](../../isketchbook-screenshots/images/homescreen.PNG)](../../isketchbook-screenshots/images/homescreen.PNG)
+[![Homescreen](../../screenshots/images/homescreen.PNG)](../../screenshots/images/homescreen.PNG)
 
-[![Homescreen with a Folder open](../../isketchbook-screenshots/images/homescreen-folder-02.PNG)](../../isketchbook-screenshots/images/homescreen-folder-02.PNG)
+[![Homescreen with a Folder open](../../screenshots/images/homescreen-folder-02.PNG)](../../screenshots/images/homescreen-folder-02.PNG)
 
-[![Homescreen with a Folder open](../../isketchbook-screenshots/images/homescreen-folder-03.PNG)](../../isketchbook-screenshots/images/homescreen-folder-03.PNG)
+[![Homescreen with a Folder open](../../screenshots/images/homescreen-folder-03.PNG)](../../screenshots/images/homescreen-folder-03.PNG)
 
-[![Homescreen + Dockflow](../../isketchbook-screenshots/images/homescreen-dockflow.PNG)](../../isketchbook-screenshots/images/homescreen-dockflow.PNG)
+[![Homescreen + Dockflow](../../screenshots/images/homescreen-dockflow.PNG)](../../screenshots/images/homescreen-dockflow.PNG)
 
-[![Multitasking Bar](../../isketchbook-screenshots/images/multitasking-bar-01.PNG)](../../isketchbook-screenshots/images/multitasking-bar-01.PNG)
+[![Multitasking Bar](../../screenshots/images/multitasking-bar-01.PNG)](../../screenshots/images/multitasking-bar-01.PNG)
 
-[![SBSettings](../../isketchbook-screenshots/images/sbsettings-01.PNG)](../../isketchbook-screenshots/images/sbsettings-01.PNG)
+[![SBSettings](../../screenshots/images/sbsettings-01.PNG)](../../screenshots/images/sbsettings-01.PNG)
 
-[![Notification Center](../../isketchbook-screenshots/images/notification-center-01.PNG)](../../isketchbook-screenshots/images/notification-center-01.PNG)
+[![Notification Center](../../screenshots/images/notification-center-01.PNG)](../../screenshots/images/notification-center-01.PNG)
 
-[![Lockscreen](../../isketchbook-screenshots/images/lockscreen-01.PNG)](../../isketchbook-screenshots/images/lockscreen-01.PNG)
+[![Lockscreen](../../screenshots/images/lockscreen-01.PNG)](../../screenshots/images/lockscreen-01.PNG)
 
-[![Lockscreen With a different wallpaper](../../isketchbook-screenshots/images/lockscreen-02.PNG)](../../isketchbook-screenshots/images/lockscreen-02.PNG)
+[![Lockscreen With a different wallpaper](../../screenshots/images/lockscreen-02.PNG)](../../screenshots/images/lockscreen-02.PNG)
 
-[![Lockscreen Snowcover](../../isketchbook-screenshots/images/lockscreen-03-snowcover.PNG)](../../isketchbook-screenshots/images/lockscreen-03-snowcover.PNG)
+[![Lockscreen Snowcover](../../screenshots/images/lockscreen-03-snowcover.PNG)](../../screenshots/images/lockscreen-03-snowcover.PNG)
 
-[![Lockscreen Snowcover](../../isketchbook-screenshots/images/lockscreen-06.PNG)](../../isketchbook-screenshots/images/lockscreen-06.PNG)
+[![Lockscreen Snowcover](../../screenshots/images/lockscreen-06.PNG)](../../screenshots/images/lockscreen-06.PNG)
 
-[![Lockscreen Snowcover](../../isketchbook-screenshots/images/lockscreen-04-notification.PNG)](../../isketchbook-screenshots/images/lockscreen-04-notification.PNG)
+[![Lockscreen Snowcover](../../screenshots/images/lockscreen-04-notification.PNG)](../../screenshots/images/lockscreen-04-notification.PNG)
 
-[![Lockscreen Snowcover](../../isketchbook-screenshots/images/lockscreen-05-charging.PNG)](../../isketchbook-screenshots/images/lockscreen-05-charging.PNG)
+[![Lockscreen Snowcover](../../screenshots/images/lockscreen-05-charging.PNG)](../../screenshots/images/lockscreen-05-charging.PNG)
 
 ## Disclaimer
 
