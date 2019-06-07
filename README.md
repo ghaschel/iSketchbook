@@ -5,12 +5,10 @@
 iSketchbook is a handmade open source [WinterBoard](https://www.theiphonewiki.com/wiki/WinterBoard) concept/theme.  
 The process of making the icons was:
 
-- Printing the grid of rounded boxes on a A4 paper
- - [template.doc](/template.doc)
-- Drawing the icons inside of the boxes using a blue ink pen.
-- Scanning the papers and cropping the icons to their respective PSDs.
- - [Icon@2x.psd](/PSDs/Icon@2x.psd)
- - [SBSettings-Toggle.psd](/PSDs/SBSettings-Toggle.psd)
+- Printing the grid of rounded boxes on a A4 paper [template.doc](/template.doc)
+- Drawing the icons using a blue ink pen.
+- Scanning the papers and cropping the icons to their respective PSDs. [Icon@2x.psd](/PSDs/Icon@2x.psd)/[SBSettings-Toggle.psd](/PSDs/SBSettings-Toggle.psd)
+- PNGCrushing the files to remove unused channels/critical chunk in order to save RAM (tough times, 256mb)
 
 The other assets have varied from ripping papers, smashing, dripping coffee, and many other tests that may have or may have not failed.
 
